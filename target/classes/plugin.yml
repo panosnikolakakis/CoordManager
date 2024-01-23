@@ -1,0 +1,19 @@
+name: CoordManager
+version: '1.0-SNAPSHOT'
+main: com.panosnikolakakis.coordmanager.CoordManager
+api-version: '1.20'
+authors: [Panos Nikolakakis]
+description: A plugin to manage locations
+commands:
+  locationsave:
+    description: Saves a location's coordinates
+    usage: /locationsave <LocationName>
+  locationfind:
+    description: Shows the location's coordinates
+    usage: /locationfind <LocationName>
+  locationlist:
+    description: Lists all saved locations
+    usage: /locationlist
+  locationdelete:
+    description: Deletes the specified location
+    usage: /locationdelete <LocationName>
