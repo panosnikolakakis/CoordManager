@@ -1,0 +1,6 @@
+com\panosnikolakakis\coordmanager\SaveLocationCommand$1.class
+com\panosnikolakakis\coordmanager\SaveLocationCommand.class
+com\panosnikolakakis\coordmanager\CoordManager.class
+com\panosnikolakakis\coordmanager\ListLocationsCommand.class
+com\panosnikolakakis\coordmanager\DeleteLocationCommand.class
+com\panosnikolakakis\coordmanager\FindLocationCommand.class
