@@ -2,6 +2,7 @@
 Minecraft 1.20.4 server plugin to manage locations
 
 Made for Spigot although only tested on Paper
+
 Fabric support coming soon
 
 
